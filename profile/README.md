@@ -10,6 +10,20 @@
 
 <p align="center">Our mission is to foster innovation and collaboration in the Metaverse space. We believe in the power of collective intelligence and the potential of the Metaverse to revolutionize gaming, research, education, and beyond.</p>
 
+<h2 align="center">Projects</h2>
+
+<h3 align="center">Dark Flow</h3>
+
+<p align="center">
+  Dark Flow is an ambitious Metaverse game project that combines exploration, puzzle-solving, and real-time strategy elements. Join us in creating a mesmerizing virtual world!
+</p>
+
+<h3 align="center">Full Dive VR</h3>
+
+<p align="center">
+  Full Dive VR aims to push the boundaries of virtual reality experiences. Immerse yourself in fully interactive virtual environments and redefine reality with us!
+</p>
+
 <h2 align="center">Get Involved</h2>
 
 <p align="center">Are you interested in Metaverse game development or contributing to scientific research related to the Metaverse? Join us in our journey to build an interconnected and immersive virtual world! Explore our repositories, participate in discussions, and contribute to exciting projects.</p>
