@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Metaverse-Crowdsource/EEG-tES-Chaos-Neural-Net/blob/main/Images/MVCS_pfp.png" alt="Metaverse Crowdsource Profile Picture">
+  <img src="https://github.com/Metaverse-Crowdsource/EEG-tES-Chaos-Neural-Net/blob/main/Images/MVCS_pfp.png" alt="Metaverse Crowdsource Logo">
 </div>
 
 <h1 align="center">Metaverse Crowdsource</h1>
@@ -18,15 +18,28 @@
 
 <h3 align="center">Dark Flow</h3>
 
+<div align="center">
+  <a href="https://discord.gg/HBHGvDxDmt">
+    <img src="https://github.com/Metaverse-Crowdsource/.github/blob/main/Screenshot%20from%202023-07-26%2018-39-57.png" alt="Dark Flow Logo">
+  </a>
+</div>
+
 <p align="center">
-  Dark Flow is an ambitious Metaverse game project that combines exploration, puzzle-solving, and real-time strategy elements. Join us in creating a mesmerizing virtual world!
+  Dark Flow is a cyberpunk MMORPG we are currently developing.
 </p>
 
 <h3 align="center">Full Dive VR</h3>
 
+<div align="center">
+  <a href="https://github.com/Metaverse-Crowdsource/EEG-tES-Chaos-Neural-Net">
+    <img src="https://github.com/Metaverse-Crowdsource/EEG-tES-Chaos-Neural-Net/blob/main/Images/00092.png" alt="Full Dive VR Neuroscience Image">
+  </a>
+</div>
+
 <p align="center">
-  Full Dive VR aims to push the boundaries of virtual reality experiences. Immerse yourself in fully interactive virtual environments and redefine reality with us!
+Our Full Dive VR project aims to input sensory (seeing, touching, hearing, smelling, tasting) information into the human brain and output motor (walking, turning head, moving arms and legs, wiggling fingers etc.) information to the computer, for a "full dive" immersive VR experience.
 </p>
+
 
 <h2 align="center">Get Involved</h2>
 
