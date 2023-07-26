@@ -48,7 +48,7 @@ Our Full Dive VR project aims to input sensory (seeing, touching, hearing, smell
 <h2 align="center">Connect with Us</h2>
 
 <p align="center">
-  <a href="mvcs.one">Website</a> |
+  <a href="https://www.mvcs.one">Website</a> |
   <a href="https://discord.gg/HBHGvDxDmt">Discord</a> |
   <a href="https://www.tiktok.com/@metaversecrowdsourcebr">TikTok</a>
 </p>
