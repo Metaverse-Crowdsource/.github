@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Metaverse-Crowdsource/EEG-tES-Chaos-Neural-Net/blob/main/Images/MVCS_pfp.png" alt="Metaverse Crowdsource Logo">
+  <img src="https://github.com/Metaverse-Crowdsource/.github/blob/main/Screenshot%20from%202023-07-26%2018-52-45.png" alt="Metaverse Crowdsource Logo">
 </div>
 
 <h1 align="center">Metaverse Crowdsource</h1>
