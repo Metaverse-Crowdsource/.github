@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Metaverse-Crowdsource/EEG-tES-Chaos-Neural-Net/blob/main/Images/MVCS_pfp.png" alt="Metaverse Crowdsource Profile Picture">
+</div>
+
 <h1 align="center">Metaverse Crowdsource</h1>
 
 <p align="center">Welcome to the Metaverse Crowdsource organization on GitHub!</p>
